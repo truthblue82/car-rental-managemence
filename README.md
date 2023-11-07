@@ -1,11 +1,4 @@
-# CS490 - Project Management - Car Rental System
-
-**Professor** - Somesh Rao Pullapantula
-
-**Team Members** 
-1.  Hesham
-2.  Kevin
-2.  Luan Tran
+# Car Rental System
 
 ## Scope
 Our team will create an online car rental system where the car rental company can manage its car fleet, car rentals and its employees as well as enable the customers to rent cars and do the payment process using Visa or Mastercard. The customer shall be able to either register as a normal customer or as a frequent renter. The frequent renter account shall be one of 3 types: Bronze, Silver, or Gold. and deliver the minimum number of reports required that meets the customer requirements.
@@ -52,8 +45,8 @@ Our team will create an online car rental system where the car rental company ca
 ### Tools & Technologies used:
 ---
 * Java
-* HTML and CSS, JavaScript, TypeScript,  React
-* MySQL - MySQL Workbench
+* HTML, CSS, JavaScript, TypeScript, React
+* MySQL
 * RESTful API
 * Maven
 * Spring Initializer
